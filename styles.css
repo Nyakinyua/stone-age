@@ -1,0 +1,26 @@
+p{
+    text-align:center;
+    font-style: normal;
+    color: black
+
+    
+    padding: 22px;
+}
+ 
+body{
+    background-color:rgb(221, 238, 238);
+    background-image: url("http://brwacademy.com/wp-content/uploads/2014/07/A829559.jpg")
+}
+p{
+    border: 1px solid powderblue;
+    margin: 25px;
+}
+#pol{
+    align-items: baseline;
+}
+p.error{
+    float: left;
+}
+p{
+    font-size: 16px;
+}
